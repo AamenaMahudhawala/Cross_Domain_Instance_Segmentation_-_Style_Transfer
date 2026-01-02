@@ -26,7 +26,6 @@ This project addresses the challenge of automated defect detection in industrial
 This project uses the NEU-Seg dataset.
 
   * **Source:** [Roboflow - NEU-Seg Dataset](https://universe.roboflow.com/school-4pxkq/neu-seg)
-  * **Note:** Sample subsets of the data are included in the `datasets/` folder for demonstration purposes.
 
 -----
 
@@ -66,7 +65,8 @@ Cross_Domain_Instance_Segmentation_&_Style_Transfer/
     ```
 
 -----
-
+##  Datasets
+ * **Datasets for this project:** [Dataset](https://www.kaggle.com/datasets/aamenam/datasetsforcross-domain-instance-segmentation)
 
 ## Results Summary
 
