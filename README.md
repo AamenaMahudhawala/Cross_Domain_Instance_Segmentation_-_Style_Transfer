@@ -67,6 +67,8 @@ Cross_Domain_Instance_Segmentation_&_Style_Transfer/
 -----
 ##  Datasets
  * **Datasets for this project:** [Dataset](https://www.kaggle.com/datasets/aamenam/datasetsforcross-domain-instance-segmentation)
+##  Model
+ * **Model for this project:** [Pre-trained]([https://www.kaggle.com/datasets/aamenam/datasetsforcross-domain-instance-segmentation](https://www.kaggle.com/models/aamenam/rcnn-model-for-fault-detection-in-steel-neu-seg))
 
 ## Results Summary
 
