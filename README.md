@@ -28,7 +28,10 @@ This project uses the NEU-Seg dataset.
   * **Source:** [Roboflow - NEU-Seg Dataset](https://universe.roboflow.com/school-4pxkq/neu-seg)
 
 -----
+## CycleGAN Library
 
+  * **Source:** [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+-----
 ##  Directory Structure
 
 ```text
